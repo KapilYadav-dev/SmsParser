@@ -17,7 +17,7 @@ Make sure your Android app has the required permissions to read SMS messages. Yo
 Add the Library: Add the library to your project. You can do this by including it in your app-level build.gradle file:
 ```kotlin
 dependencies {
-    implementation 'com.example:smsparser:1.0.0'
+     implementation 'com.github.KapilYadav-dev:SmsParser:Tag'
 }
 ```
 ### 3. Usage
